@@ -1,5 +1,10 @@
 # ClassMaps Latent Profile Analysis
 
+### <img align="left" width="30" height="30" src="https://github.com/jjeffries13/APA_2023/blob/main/Images/4851855-200.png"> Jay B. Jeffries<sup>1</sup> <img align="right" width="240" height="100" src=" "> <img align="right" width="130" height="100" src=" "> 
+<h5><sup>1</sup>University of Nebraska-Lincoln </h5> 
+
+*2025 National Council for Measurement in Education* <br>
+<sub> *Graduate Student eBoard Session 2* </sub> 
 
 **Table 1**
 *Differences in ClassMaps Scores Across Latent Profiles*
