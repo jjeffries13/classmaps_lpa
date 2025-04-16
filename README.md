@@ -1,6 +1,6 @@
 # ClassMaps Latent Profile Analysis
 
-### <img align="left" width="30" height="30" src="https://github.com/jjeffries13/APA_2023/blob/main/Images/4851855-200.png"> Jay B. Jeffries<sup>1</sup> <img align="right" width="130" height="160" src="https://github.com/jjeffries13/classmaps_lpa/blob/main/Images/Nv_CEHS_NEAR_fullname_RGB.png"> <img align="right" width="250" height="100" src="https://github.com/jjeffries13/classmaps_lpa/blob/main/Images/ncme_logo.jpg"> 
+### <img align="left" width="30" height="30" src="https://github.com/jjeffries13/APA_2023/blob/main/Images/4851855-200.png"> Jay B. Jeffries<sup>1</sup> <img align="right" width="200" height="160" src="https://github.com/jjeffries13/classmaps_lpa/blob/main/Images/Nv_CEHS_NEAR_fullname_RGB.png"> <img align="right" width="250" height="100" src="https://github.com/jjeffries13/classmaps_lpa/blob/main/Images/ncme_logo.jpg"> 
 <h5><sup>1</sup>University of Nebraska-Lincoln </h5> 
 
 *2025 National Council for Measurement in Education* <br>
