@@ -6,7 +6,7 @@
 *2025 National Council for Measurement in Education* <br>
 <sub> *Graduate Student eBoard Session 2* </sub> 
 
-**Table 1**
+**Table A1**
 *Differences in ClassMaps Scores Across Latent Profiles*
 
 | Comparison            | Mean Difference |   SE  | _t_     | _p_    |
