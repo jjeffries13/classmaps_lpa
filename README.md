@@ -1,4 +1,4 @@
-# ClassMaps Latent Profile Analysis
+# A Latent Profile Analysis of Students’ Classroom Environments Across COVID-19
 
 ### <img align="left" width="30" height="30" src="https://github.com/jjeffries13/APA_2023/blob/main/Images/4851855-200.png"> Jay B. Jeffries <img align = "right" src = "https://github.com/jjeffries13/classmaps_lpa/blob/main/Images/Nv_CEHS_NEAR_fullname_RGB.png" width="320" height="140">
 <h5>University of Nebraska-Lincoln </h5> 
